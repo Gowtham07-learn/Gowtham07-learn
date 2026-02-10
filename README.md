@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-gowthampachiyappan07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthampachiyappan07@gmail.com)
 
 # 💫 : Hi 👋, I'm Gowtham P
-👋 About Me<br>Hi, I’m Gowtham P<br>💻 A dedicated developer passionate about software development and problem-solving<br>🌱 Currently focusing on Full-Stack Development , Data Science , AI , Machine Learning<br>🔭 Building projects to enhance my skills in web applications, automation, data analysis<br>📂 Explore my repositories to see hands-on implementations and real-world solutions<br>📫 Connect with me: [Email] gowthampachiyappan07@gmail.com<br>🎯 Career goal: To apply my coding skills in solving real-world challenges and continuously improve through learning.
+👋 About Me<br>Hi, I’m Gowtham P<br>💻 A dedicated developer passionate about software development and problem-solving<br>🌱 Currently focusing on Full-Stack Development , Data Science , AI , Machine Learning<br>🔭 Building projects to enhance my skills in web applications, automation, data analysis , AI and ML <br>📂 Explore my repositories to see hands-on implementations and real-world solutions<br>📫 Connect with me: [Email] gowthampachiyappan07@gmail.com<br>🎯 Career goal: To apply my coding skills in solving real-world challenges and continuously improve through learning.
 
 
 ## 🌐 Socials:
