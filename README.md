@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-p-463b6b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-Gowtham07--learn-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowtham07-learn)
 [![Email](https://img.shields.io/badge/Email-gowthampachiyappan07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthampachiyappan07@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=Gowtham07-learn&color=dc143c)
 # 💫 : Hi 👋, I'm Gowtham P
 👋 About Me<br>Hi, I’m Gowtham P<br>💻 A dedicated developer passionate about software development and problem-solving<br>🌱 Currently focusing on Full-Stack Development , Data Science , AI , Machine Learning<br>🔭 Building projects to enhance my skills in web applications, automation, data analysis , AI and ML <br>📂 Explore my repositories to see hands-on implementations and real-world solutions<br>📫 Connect with me: [Email] gowthampachiyappan07@gmail.com<br>🎯 Career goal: To apply my coding skills in solving real-world challenges and continuously improve through learning.
 
@@ -21,9 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Gowtham07-learn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gowtham07-learn&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham07-learn&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gowtham07-learn&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
