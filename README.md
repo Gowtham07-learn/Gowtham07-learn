@@ -18,7 +18,7 @@
 <a href="https://ossinsight.io">
   <b></b>
 </a>
-<b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+<b><a href ="https://ossinsight.io/explore/">Data Explorer</a></b>
   •
   <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
   •
