@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Coding Cat">
+  <img src ="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500" alt="Coding Cat">
 </div>
 
 <div align="center">
