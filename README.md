@@ -44,7 +44,7 @@ Computer Science Engineering student focused on Backend Engineering, Distributed
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/gowtham-p-b77737397" target="_blank">
+<a href ="https://www.linkedin.com/in/gowtham-p-b77737397" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
 </a>
 
