@@ -53,7 +53,7 @@ Computer Science Engineering student focused on Backend Engineering, Distributed
 </a>
 </p>
 
-<h2 id="tech-stack">💻 Tech Stack</h2>
+<h2 id ="tech-stack">💻 Tech Stack</h2>
 
 <p><b>🧠 Languages</b><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -68,7 +68,7 @@ Computer Science Engineering student focused on Backend Engineering, Distributed
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src ="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Webhooks-6366F1?style=for-the-badge&logo=webhooks&logoColor=white" />
 </p>
 
