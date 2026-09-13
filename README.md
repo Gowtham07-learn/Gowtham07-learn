@@ -1,7 +1,7 @@
 <h1 align="center">Hii , GOWTHAM here 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gowtham07-learn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src ="https://komarev.com/ghpvc/?username=Gowtham07-learn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<a href="https://ossinsight.io">
+<a href ="https://ossinsight.io">
   <img src="/web/static/img/screenshots/homepage.gif" height="360">
 </a>
 </div>
